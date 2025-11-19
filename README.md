@@ -28,7 +28,7 @@
 
 ---
 
-## 📦Installation & Setup
+## Installation & Setup
 
 ```bash
 git clone https://github.com/NA-JPBrew/FFmpeg-Tools.git
@@ -47,13 +47,13 @@ Once the server starts, open:
 http://localhost:3000
 ```
 
-## 📄 License
+## License
 
 [MIT LICENSE.](./LICENSE)
 
 ---
 
-## 🙌 Contributions
+## Contributions
 
 This project is not actively maintained, but feel free to explore or fork it.
 
